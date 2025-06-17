@@ -2,7 +2,7 @@
 
 CASE STUDY: TailWind Traders
 Prepare the Sales Excel data
-Step 1: Download the file
+Step 1: Download the file\
 Step 2: Calculate Cost of Goods
 Step 3: Calculate Gross Revenue
 Step 4: Calculate Total Tax:
